@@ -1,0 +1,13 @@
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\bin\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.exe
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\bin\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.deps.json
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\bin\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.runtimeconfig.json
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\bin\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.runtimeconfig.dev.json
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\bin\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.dll
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\bin\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.pdb
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\obj\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.csprojAssemblyReference.cache
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\obj\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.AssemblyInfoInputs.cache
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\obj\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.AssemblyInfo.cs
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\obj\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.csproj.CoreCompileInputs.cache
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\obj\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.dll
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\obj\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.pdb
+C:\Users\Jonah\source\repos\BmiKarvonenCalcJRY\BmiKarvonenCalcJRY\obj\Debug\netcoreapp3.1\BmiKarvonenCalcJRY.genruntimeconfig.cache
